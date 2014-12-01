@@ -69,3 +69,23 @@ audio{
 
 	vertical-align: bottom;
 }
+
+.navbar-inverse .navbar-toggle {
+	color: white;
+	border-color: white;
+}
+
+.navbar-inverse .navbar-toggle:hover{
+
+	background-color: #DDD;
+	color: #333;
+}
+
+.navbar-inverse .navbar-toggle .glyphicon{
+	color: white;
+}
+
+.navbar-inverse .navbar-toggle:hover .glyphicon{
+
+	color: #333;
+}
