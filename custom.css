@@ -1,0 +1,71 @@
+/* this is a custom css stylesheet */
+
+body{
+
+	font-family: "Courier New";
+	margin-left: 0;
+	margin-right: 0;
+	color: black;
+	background-color: white;
+}
+
+
+
+div.jumbotron{
+	margin-top: 90px;
+	height: 300px;
+	background-color: #0276FD;
+	color: #C6E2FF;
+	
+}
+
+#button1{
+
+	background-color: #DCDCDC;
+	color: #303030; 
+	border-color: #FFFFFF;
+
+}
+
+
+
+article{
+
+	border:solid;
+	border-width: .09em;
+    border-radius: 5px;
+    border-color: #C6E2FF;
+    padding-top: 20px;
+
+}
+
+
+button{
+
+	color: #FFFFFF;
+}
+
+a{
+color: #000000;
+}
+
+p.text{
+
+	font-size: 1.5em;
+}
+
+footer{
+
+	margin-top: 50px;
+	text-align: center;
+}
+
+div.tab-content{
+
+	padding-left: 20px;
+}
+
+audio{
+
+	vertical-align: bottom;
+}
