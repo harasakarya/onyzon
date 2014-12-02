@@ -14,7 +14,6 @@ body{
 div.jumbotron{
 	margin-top: 90px;
 	height: 300px;
-	color: #C6E2FF;
 	background-image: url(globe.jpg);
     background-position: 0% 25%;
     background-size: cover;
@@ -38,8 +37,10 @@ a.btn{
 
 article{
 
+	border: solid;
+	border-color: #E0FFFF;
 	border-width: .09em;
-    border-radius: 5px;
+    border-radius: 10px;
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -49,8 +50,15 @@ article{
 
 div.thumbnail{
 
-	border: none;
-	background-color: #E0FFFF;
+
+	border: solid;
+	border-color: #E0FFFF;
+	border-width: .09em;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #E0FFFF;
 }
 
 
