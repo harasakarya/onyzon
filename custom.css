@@ -1,8 +1,13 @@
 /* this is a custom css stylesheet */
 
+	@font-face { font-family: "CourierP"; 
+	src: url('fonts/Courier_Prime.ttf');
+}
+
+
 body{
 
-	font-family: "Courier New";
+ 	font-family: "CourierP", sans-serif; 
 	margin-left: 0;
 	margin-right: 0;
 	color: black;
