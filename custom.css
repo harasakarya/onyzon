@@ -41,7 +41,11 @@ i.fa, i:hover{
 	border-radius: 5px;
 	color:white;
 	margin-bottom: 0px;
-	width: 30px;
+	width: 35px;
+
+}
+
+i.fa-facebook{
 	padding-top: 3px;
 }
 
