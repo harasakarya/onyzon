@@ -34,7 +34,7 @@ a.btn{
 }
 
 
-i.fa, i:hover{
+i.fa, i.fa:hover{
 	font-size: 2em;
 	border: solid;
 	border-width: .05em;
@@ -51,7 +51,7 @@ i.fa-facebook{
 	padding-top: 1.5px;
 }
 
-i:hover{
+i.fa:hover{
 	color: gray;
 
 
@@ -100,6 +100,9 @@ div.thumbnail{
     padding-bottom: 15px;
     padding-left: 15px;
     background-color: #E0FFFF;
+}
+ul.nav{
+	font-size: .8em;
 }
 
 
