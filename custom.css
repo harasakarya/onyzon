@@ -26,13 +26,36 @@ div.jumbotron{
     color: white;
 	
 }
-
 a.btn{
 		background-image: url(venice2.jpg);
 		
 		color: white;
 
 }
+
+
+i.fa, i:hover{
+	font-size: 2em;
+	border: solid;
+	border-width: .05em;
+	border-radius: 5px;
+	color:white;
+	margin-bottom: 0px;
+}
+
+i:hover{
+	color: gray;
+
+
+}
+.intro-divider {
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+border-top: 1px solid black;
+text-align: center;
+}
+
 
 .nav-pills .active a,
 .nav-pills .active a:hover {
@@ -81,7 +104,7 @@ color: #000000;
 
 p.text{
 
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 
 footer{
