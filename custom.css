@@ -33,6 +33,13 @@ a.btn{
 
 }
 
+a.btn:active{
+
+	background-image: url(venice4.jpg);
+
+	color: #171717;
+}
+
 
 i.fa, i.fa:hover{
 	font-size: 2em;
@@ -51,7 +58,7 @@ i.fa-facebook{
 	padding-top: 1.5px;
 }
 
-i.fa:hover{
+i.fa:hover, i.fa:active{
 	color: gray;
 
 
@@ -95,9 +102,9 @@ div.thumbnail{
 	border-color: #E0FFFF;
 	border-width: .09em;
     border-radius: 10px;
-    padding-top: 15px;
+  	padding-top: 15px;
     padding-right: 15px;
-    padding-bottom: 15px;
+   	padding-bottom: 15px;
     padding-left: 15px;
     background-color: #E0FFFF;
 }
